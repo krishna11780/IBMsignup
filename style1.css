@@ -1,0 +1,75 @@
+body {
+  background-image: url('ibm-logo1.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: lightpink;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+marquee {
+  color: black;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.prop3 {
+  color: black;
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+#Sign_up {
+  background-color: rgba(225, 220, 220, 0.233); 
+  width: 350px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(7, 5, 5, 0.3);
+  text-align: center;
+}
+
+input {
+  width: 250px;
+  padding: 8px;
+  background-color: rgb(219, 211, 211);
+  border: none;
+  border-bottom: 2px solid rgb(94, 88, 88);
+}
+
+
+.button {
+  width: 250px;
+  padding: 10px;
+  border: none;
+  margin-top: 10px;
+}
+
+.button1 {
+  background-color: grey;
+  color: white;
+}
+
+.button1:hover {
+  background-color: #949e9a;
+  color: white;
+}
+
+.button2 {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button2 a {
+  text-decoration: none;
+  color: white;
+}
+
+.button2:hover {
+  background-color: #038a5a;
+}

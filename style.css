@@ -1,0 +1,62 @@
+body {
+  background-image:url(ibm-logo1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color:lightpink;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+marquee {
+  color: black;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.prop1 {
+  color:white;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.button4 {
+  width: 250px;
+  background-color: grey;
+  border: none;
+}
+
+.button3 {
+  border: 2px solid #04AA6D;
+}
+
+.button3:hover {
+  background-color: #949e9a;
+  color: grey;
+}
+
+input[type="text"] {
+  border-bottom: 2px solid rgb(94, 88, 88);
+  background-color: rgb(219, 211, 211);
+  padding: 8px;
+  width: 250px;
+}
+
+
+form {
+  padding: 30px;
+}
+
+div {
+  text-align: center;
+}
+
+
+form {
+  background-color:rgba(245, 245, 245, 0.21);
+  width: 350px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(0, 0, 0);
+}
